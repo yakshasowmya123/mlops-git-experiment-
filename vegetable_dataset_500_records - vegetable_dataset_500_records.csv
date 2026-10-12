@@ -1,0 +1,505 @@
+Record_ID,Vegetable,State,Month,Quantity_kg,Price_per_kg,Demand,Quality,Sales_Amount
+1,Carrot,Tamil Nadu,January,809,43.88,Low,A,35498.92
+2,Carrot,Tamil Nadu,November,808,108.68,Low,C,87813.44
+3,Capsicum,Karnataka,January,80,24.84,Low,C,1987.2
+4,Green Chilli,Andhra Pradesh,January,624,35.88,High,C,22389.12
+5,Pumpkin,Andhra Pradesh,July,275,62.17,Medium,A,17096.75
+6,Cauliflower,Karnataka,December,482,50.73,Low,A,24451.86
+7,Bitter Gourd,Andhra Pradesh,February,144,54.89,Medium,B,7904.16
+8,Green Chilli,Andhra Pradesh,May,876,19.56,Medium,C,17134.56
+9,Carrot,Tamil Nadu,July,130,72.96,High,C,9484.8
+10,Beans,Karnataka,October,246,88.98,Low,C,21889.08
+11,Spinach,Andhra Pradesh,May,131,104.81,Low,B,13730.11
+12,Lady Finger,Tamil Nadu,August,700,102.58,Low,B,71806
+13,Beans,Karnataka,April,736,43.03,High,C,31670.08
+14,Onion,Maharashtra,October,700,32.97,High,A,23079
+15,Cauliflower,Karnataka,August,438,43.34,High,C,18982.92
+16,Pumpkin,Andhra Pradesh,April,751,49.05,Low,A,36836.55
+17,Potato,Karnataka,June,460,43.11,Low,C,19830.6
+18,Bitter Gourd,Andhra Pradesh,April,721,67.42,High,B,48609.82
+19,Cabbage,Andhra Pradesh,May,192,40.9,High,C,7852.8
+20,Lady Finger,Tamil Nadu,December,648,59.99,High,B,38873.52
+21,Beans,Karnataka,April,191,68.5,Low,A,13083.5
+22,Carrot,Tamil Nadu,March,692,31.8,High,B,22005.6
+23,Green Chilli,Andhra Pradesh,February,444,55.07,Medium,C,24451.08
+24,Lady Finger,Tamil Nadu,September,931,113.96,High,C,106096.76
+25,Carrot,Tamil Nadu,November,956,71.38,Medium,C,68239.28
+26,Bitter Gourd,Andhra Pradesh,February,350,60.65,Medium,A,21227.5
+27,Lady Finger,Tamil Nadu,September,830,33.76,Low,C,28020.8
+28,Bottle Gourd,Telangana,November,569,78.94,Low,B,44916.86
+29,Cauliflower,Karnataka,September,847,111.86,Low,C,94745.42
+30,Bitter Gourd,Andhra Pradesh,August,69,26.75,Medium,B,1845.75
+31,Spinach,Andhra Pradesh,January,296,107.19,Low,A,31728.24
+32,Radish,Tamil Nadu,February,828,70.93,Low,A,58730.04
+33,Radish,Tamil Nadu,September,219,42.83,High,B,9379.77
+34,Brinjal,Telangana,September,823,91.64,Low,C,75419.72
+35,Bottle Gourd,Telangana,July,737,83.24,Medium,C,61347.88
+36,Cucumber,Andhra Pradesh,February,303,38.59,Medium,A,11692.77
+37,Drumstick,Tamil Nadu,September,285,76.79,Low,A,21885.15
+38,Potato,Karnataka,April,119,110.07,Medium,A,13098.33
+39,Beetroot,Karnataka,April,335,85.24,Low,C,28555.4
+40,Cabbage,Andhra Pradesh,December,953,74.96,Medium,A,71436.88
+41,Radish,Tamil Nadu,July,244,24.9,High,,6075.6
+42,Beans,Karnataka,July,470,64.04,High,A,30098.8
+43,Carrot,Tamil Nadu,January,462,91.46,Low,A,42254.52
+44,Brinjal,Telangana,April,599,62.1,Medium,A,37197.9
+45,Lady Finger,Tamil Nadu,August,305,106.82,Low,B,32580.1
+46,Pumpkin,Andhra Pradesh,February,101,83.48,High,A,8431.48
+47,Onion,Maharashtra,April,220,57.67,Medium,A,12687.4
+48,Green Peas,Himachal Pradesh,January,218,54.79,Medium,B,11944.22
+49,Cucumber,Andhra Pradesh,May,483,88.14,High,C,42571.62
+50,Radish,Tamil Nadu,March,244,46.15,Low,C,11260.6
+51,Pumpkin,Andhra Pradesh,January,815,47.93,Low,C,39062.95
+52,Radish,Tamil Nadu,September,991,104.54,Low,A,103599.14
+53,Beetroot,Karnataka,February,921,34.51,High,A,31783.71
+54,Spinach,Andhra Pradesh,July,172,113.87,High,A,19585.64
+55,Drumstick,Tamil Nadu,October,90,80.04,Medium,C,7203.6
+56,Drumstick,Tamil Nadu,October,585,48.22,Medium,A,28208.7
+57,Bitter Gourd,Andhra Pradesh,April,321,56.56,High,C,18155.76
+58,Bottle Gourd,Telangana,August,373,112.55,Low,A,41981.15
+59,Cucumber,Andhra Pradesh,October,626,119.59,Low,C,74863.34
+60,Brinjal,Telangana,September,321,28.91,Medium,A,9280.11
+61,Spinach,Andhra Pradesh,June,341,31.56,High,C,10761.96
+62,Bottle Gourd,Telangana,October,876,83.67,Low,C,73294.92
+63,Pumpkin,Andhra Pradesh,May,729,25.88,Low,B,18866.52
+64,Carrot,Tamil Nadu,February,810,73.09,Medium,B,59202.9
+65,Green Chilli,Andhra Pradesh,April,784,51,High,C,39984
+66,Lady Finger,Tamil Nadu,September,550,41.37,Low,A,22753.5
+67,Capsicum,Karnataka,May,95,15.37,Low,C,1460.15
+68,Lady Finger,Tamil Nadu,March,809,61.39,High,B,49664.51
+69,Pumpkin,Andhra Pradesh,January,164,22.9,High,A,3755.6
+70,Pumpkin,Andhra Pradesh,January,904,53.77,High,A,48608.08
+71,Capsicum,Karnataka,March,92,47.37,Low,B,4358.04
+72,Brinjal,Telangana,November,305,85.03,,C,25934.15
+73,Capsicum,Karnataka,October,817,31.23,Low,A,25514.91
+74,Cauliflower,Karnataka,July,75,33.83,Medium,B,2537.25
+75,Spinach,Andhra Pradesh,May,213,97.67,Low,B,20803.71
+76,Potato,Karnataka,August,277,35.96,Medium,B,9960.92
+77,Bottle Gourd,Telangana,April,278,17.48,Low,B,4859.44
+78,Bitter Gourd,Andhra Pradesh,May,935,22.29,Medium,B,20841.15
+79,Beetroot,Karnataka,July,745,118.02,High,B,87924.9
+80,Tomato,Andhra Pradesh,February,948,116.89,Low,C,110811.72
+81,Lady Finger,Tamil Nadu,January,161,77.64,Medium,C,12500.04
+82,Bitter Gourd,Andhra Pradesh,July,670,118.34,Low,B,79287.8
+83,Drumstick,Tamil Nadu,April,310,19.66,Medium,A,6094.6
+84,Beetroot,Karnataka,September,753,90.54,High,C,68176.62
+85,Brinjal,Telangana,June,491,22.35,High,B,10973.85
+86,Green Chilli,Andhra Pradesh,June,729,104.04,High,B,75845.16
+87,Beetroot,Karnataka,May,732,57.88,Medium,C,42368.16
+88,Bottle Gourd,Telangana,September,180,35.14,High,B,6325.2
+89,Cauliflower,Karnataka,October,632,46.6,High,A,29451.2
+90,Bottle Gourd,Telangana,May,265,60.14,High,C,15937.1
+91,Bitter Gourd,Andhra Pradesh,August,502,61.43,Low,C,30837.86
+92,Radish,Tamil Nadu,December,223,84.18,Medium,C,18772.14
+93,Green Chilli,Andhra Pradesh,June,145,100.93,Low,C,14634.85
+94,Bottle Gourd,Telangana,April,875,35.91,Low,A,31421.25
+95,Spinach,Andhra Pradesh,August,675,104.22,Low,B,70348.5
+96,Capsicum,Karnataka,November,639,35.42,High,B,22633.38
+97,Radish,Tamil Nadu,July,299,30.49,High,A,9116.51
+98,Carrot,Tamil Nadu,July,274,33.47,High,C,9170.78
+99,Cucumber,Andhra Pradesh,January,620,41.17,Low,B,25525.4
+100,Cabbage,Andhra Pradesh,August,733,70.77,High,C,51874.41
+101,Bitter Gourd,Andhra Pradesh,August,677,100.58,High,B,68092.66
+102,Pumpkin,Andhra Pradesh,August,968,31.71,Medium,B,30695.28
+103,Lady Finger,Tamil Nadu,April,910,81.95,High,B,74574.5
+104,Spinach,Andhra Pradesh,May,500,23.14,Medium,A,11570
+105,Lady Finger,Tamil Nadu,June,377,108.77,Low,A,41006.29
+106,Cabbage,Andhra Pradesh,April,442,87.86,High,A,38834.12
+107,Onion,Maharashtra,July,467,49.74,Medium,B,23228.58
+108,Potato,Karnataka,April,902,59.12,High,C,53326.24
+109,Tomato,Andhra Pradesh,October,439,65.08,Medium,B,28570.12
+110,Green Peas,Himachal Pradesh,July,601,93.49,High,C,56187.49
+111,Spinach,Andhra Pradesh,August,274,43.66,Medium,A,11962.84
+112,Green Peas,Himachal Pradesh,June,734,86.31,Medium,C,63351.54
+113,Cauliflower,Karnataka,August,991,28.4,High,C,28144.4
+114,Tomato,Andhra Pradesh,July,656,74.26,Low,A,48714.56
+115,Capsicum,Karnataka,March,937,63.48,Low,B,59480.76
+116,Green Peas,Himachal Pradesh,June,266,62.74,Medium,B,16688.84
+117,Lady Finger,Tamil Nadu,July,308,102.67,Medium,A,31622.36
+118,Pumpkin,Andhra Pradesh,January,408,38.54,Low,C,15724.32
+119,Potato,Karnataka,January,303,35.93,Low,C,10886.79
+120,Cabbage,Andhra Pradesh,April,179,64.72,Low,C,11584.88
+121,Brinjal,Telangana,August,766,41.91,Medium,A,32103.06
+122,Green Chilli,Andhra Pradesh,October,815,90.43,Low,B,73700.45
+123,Carrot,Tamil Nadu,October,76,112.53,High,C,8552.28
+124,Green Peas,Himachal Pradesh,July,782,35.82,High,C,28011.24
+125,Spinach,Andhra Pradesh,February,763,96.11,High,C,73331.93
+126,Carrot,Tamil Nadu,October,851,19.31,High,B,16432.81
+127,Beans,Karnataka,February,568,82.99,Low,B,47138.32
+128,Radish,Tamil Nadu,February,493,115.88,High,B,57128.84
+129,Cabbage,Andhra Pradesh,July,230,92.05,High,B,21171.5
+130,Green Chilli,Andhra Pradesh,September,843,65.77,Medium,C,55444.11
+131,Drumstick,Tamil Nadu,May,380,104.43,Low,B,39683.4
+132,Cucumber,Andhra Pradesh,April,818,63.79,High,C,52180.22
+133,Green Peas,Himachal Pradesh,June,79,66.9,Medium,A,5285.1
+134,Radish,Tamil Nadu,April,413,98.77,Medium,B,40792.01
+135,Green Chilli,Andhra Pradesh,December,951,44.01,Low,C,41853.51
+136,Brinjal,Telangana,February,297,90.61,Medium,C,26911.17
+137,Spinach,Andhra Pradesh,December,537,82.82,Medium,B,44474.34
+138,Tomato,Andhra Pradesh,February,351,38.27,High,A,13432.77
+139,Bottle Gourd,Telangana,November,645,53.75,High,C,34668.75
+140,Beans,Karnataka,July,813,72.79,Medium,C,59178.27
+141,Cucumber,Andhra Pradesh,May,363,41.4,Low,C,15028.2
+142,Brinjal,Telangana,June,172,93,High,A,15996
+143,Brinjal,Telangana,April,806,65.84,High,C,53067.04
+144,Beetroot,Karnataka,October,339,117.95,Low,B,39985.05
+145,Spinach,Andhra Pradesh,June,233,46.74,High,C,10890.42
+146,Cabbage,Andhra Pradesh,May,96,117.3,High,B,11260.8
+147,Cabbage,Andhra Pradesh,November,939,94.04,Low,A,88303.56
+148,Drumstick,Tamil Nadu,May,530,65.26,Medium,A,34587.8
+149,Potato,Karnataka,May,932,65.16,Low,B,60729.12
+150,Radish,Tamil Nadu,February,640,81.09,Low,A,51897.6
+151,Cabbage,Andhra Pradesh,October,361,23.94,Low,A,8642.34
+152,Pumpkin,Andhra Pradesh,July,670,77.59,High,A,51985.3
+153,Beetroot,Karnataka,July,511,110.39,Medium,C,56409.29
+154,Capsicum,Karnataka,May,632,80.21,High,C,50692.72
+155,Carrot,Tamil Nadu,April,690,37.16,High,A,25640.4
+156,Cauliflower,Karnataka,April,227,72.96,Low,A,16561.92
+157,Capsicum,Karnataka,August,755,77.35,Medium,A,58399.25
+158,Spinach,Andhra Pradesh,May,773,44.69,Medium,A,34545.37
+159,Spinach,Andhra Pradesh,May,856,98.08,High,C,83956.48
+160,Brinjal,Telangana,July,167,72.18,High,A,12054.06
+161,Lady Finger,Tamil Nadu,March,123,21.26,Medium,C,2614.98
+162,Drumstick,Tamil Nadu,May,499,28.06,High,B,14001.94
+163,Green Peas,Himachal Pradesh,May,562,71.7,Medium,A,40295.4
+164,Green Chilli,Andhra Pradesh,January,960,60.36,Medium,C,57945.6
+165,Lady Finger,Tamil Nadu,January,143,39.04,High,C,5582.72
+166,Drumstick,Tamil Nadu,January,833,85.59,Medium,C,71296.47
+167,Potato,Karnataka,March,531,69.49,Medium,B,36899.19
+168,Cauliflower,Karnataka,October,496,81.65,Medium,A,40498.4
+169,Radish,Tamil Nadu,June,468,50,High,A,23400
+170,Cauliflower,Karnataka,June,471,,Medium,C,41372.64
+171,Green Peas,Himachal Pradesh,September,87,62.76,Medium,B,5460.12
+172,Bitter Gourd,Andhra Pradesh,February,841,57.44,High,A,48307.04
+173,Pumpkin,Andhra Pradesh,August,473,20.69,High,B,9786.37
+174,Green Chilli,Andhra Pradesh,August,690,61.41,Low,A,42372.9
+175,Lady Finger,Tamil Nadu,September,184,112.41,Medium,C,20683.44
+176,Radish,Tamil Nadu,February,79,117.18,High,A,9257.22
+177,Cauliflower,Karnataka,May,614,16.44,Medium,A,10094.16
+178,Spinach,Andhra Pradesh,February,522,114.44,High,A,59737.68
+179,Radish,Tamil Nadu,December,348,68.43,Medium,B,23813.64
+180,Radish,Tamil Nadu,August,299,62.96,Low,B,18825.04
+181,Brinjal,Telangana,October,570,93.36,Low,A,53215.2
+182,Lady Finger,Tamil Nadu,July,398,113.1,High,B,45013.8
+183,Tomato,Andhra Pradesh,May,793,46.35,High,C,36755.55
+184,Radish,Tamil Nadu,March,507,71.55,Medium,B,36275.85
+185,Pumpkin,Andhra Pradesh,September,436,62.81,Medium,A,27385.16
+186,Spinach,Andhra Pradesh,October,442,39.52,Medium,A,17467.84
+187,Bitter Gourd,Andhra Pradesh,December,534,89.05,Medium,B,47552.7
+188,Cabbage,Andhra Pradesh,August,87,28.26,High,B,2458.62
+189,Carrot,Tamil Nadu,August,152,70.22,Medium,A,10673.44
+190,Cabbage,Andhra Pradesh,July,941,83.75,Low,A,78808.75
+191,Radish,Tamil Nadu,May,396,80.44,Medium,C,31854.24
+192,Onion,Maharashtra,June,922,85.81,High,B,79116.82
+193,Bitter Gourd,Andhra Pradesh,November,785,108.18,Medium,C,84921.3
+194,Potato,Karnataka,October,120,39.65,High,B,4758
+195,Spinach,Andhra Pradesh,December,142,60.57,Low,C,8600.94
+196,Carrot,Tamil Nadu,August,220,87.87,Low,A,19331.4
+197,Bitter Gourd,Andhra Pradesh,January,350,,Medium,A,18424
+198,Spinach,Andhra Pradesh,September,471,74.42,Low,A,35051.82
+199,Cauliflower,Karnataka,February,674,106.44,High,C,71740.56
+200,Spinach,Andhra Pradesh,August,984,76.23,Low,B,75010.32
+201,Lady Finger,Tamil Nadu,August,311,85.02,Medium,B,26441.22
+202,Pumpkin,Andhra Pradesh,March,125,61.38,Medium,C,7672.5
+203,Bottle Gourd,Telangana,November,484,87.48,Medium,B,42340.32
+204,Brinjal,Telangana,July,923,65.74,Low,B,60678.02
+205,Drumstick,Tamil Nadu,June,638,46.07,High,B,29392.66
+206,Tomato,Andhra Pradesh,November,455,43.82,High,C,19938.1
+207,Potato,Karnataka,October,813,67.16,Medium,A,54601.08
+208,Green Chilli,Andhra Pradesh,June,274,81.84,High,B,22424.16
+209,Cabbage,Andhra Pradesh,November,149,109.86,High,A,16369.14
+210,Bottle Gourd,Telangana,August,84,75.86,High,A,6372.24
+211,Onion,Maharashtra,May,384,93.49,Low,A,35900.16
+212,Cabbage,Andhra Pradesh,September,947,117.01,High,C,110808.47
+213,Lady Finger,Tamil Nadu,March,313,110.98,Medium,B,34736.74
+214,Bitter Gourd,Andhra Pradesh,February,529,116.1,Low,A,61416.9
+215,Green Peas,Himachal Pradesh,September,424,24.48,Medium,A,10379.52
+216,Lady Finger,Tamil Nadu,September,176,62.75,High,C,11044
+217,Lady Finger,Tamil Nadu,October,440,101.35,Medium,A,44594
+218,Spinach,Andhra Pradesh,August,75,80.05,High,B,6003.75
+219,Green Chilli,Andhra Pradesh,April,713,21.64,Medium,C,15429.32
+220,Bottle Gourd,Telangana,November,468,27.25,Low,A,12753
+221,Bottle Gourd,Telangana,August,168,25.21,High,A,4235.28
+222,Green Peas,Himachal Pradesh,August,429,85.4,High,C,36636.6
+223,Pumpkin,Andhra Pradesh,July,651,92.94,Low,B,60503.94
+224,Carrot,Tamil Nadu,August,680,57.85,Medium,A,39338
+225,Beans,Karnataka,April,504,61.69,Low,B,31091.76
+226,Carrot,Tamil Nadu,November,426,72.17,High,B,30744.42
+227,Potato,Karnataka,July,332,34.93,Low,B,11596.76
+228,Onion,Maharashtra,November,267,82.38,High,A,21995.46
+229,Potato,Karnataka,June,299,118.83,High,A,35530.17
+230,Onion,Maharashtra,September,262,76.57,Low,B,20061.34
+231,Cabbage,Andhra Pradesh,October,52,44.11,Low,A,2293.72
+232,Pumpkin,Andhra Pradesh,May,867,33.32,High,A,28888.44
+233,Cabbage,Andhra Pradesh,January,416,97.95,Low,C,40747.2
+234,Bitter Gourd,Andhra Pradesh,January,228,42.86,Low,C,9772.08
+235,Capsicum,Karnataka,September,166,93.29,Medium,B,15486.14
+236,Beans,Karnataka,September,657,26.45,High,A,17377.65
+237,Green Chilli,Andhra Pradesh,January,794,97.24,High,C,77208.56
+238,Bottle Gourd,Telangana,August,708,116.22,Low,B,82283.76
+239,Green Peas,Himachal Pradesh,July,752,26.34,High,B,19807.68
+240,Onion,Maharashtra,February,379,78.87,Low,A,29891.73
+241,Lady Finger,Tamil Nadu,October,698,76.46,High,B,53369.08
+242,Green Peas,Himachal Pradesh,October,593,45.96,High,C,27254.28
+243,Capsicum,Karnataka,February,862,88.69,High,C,76450.78
+244,Pumpkin,Andhra Pradesh,December,936,37.58,Medium,A,35174.88
+245,Capsicum,Karnataka,June,897,62.62,Medium,C,56170.14
+246,Carrot,Tamil Nadu,June,487,47.81,Medium,B,23283.47
+247,Cabbage,Andhra Pradesh,November,995,64.8,Low,A,64476
+248,Onion,Maharashtra,July,148,93.18,Medium,A,13790.64
+249,Pumpkin,Andhra Pradesh,January,650,115.45,High,B,75042.5
+250,Carrot,Tamil Nadu,July,412,106.73,Medium,C,43972.76
+251,Potato,Karnataka,May,664,47.81,Low,C,31745.84
+252,Beetroot,Karnataka,April,208,83.96,Low,A,17463.68
+253,Beans,Karnataka,September,426,27.06,Medium,C,11527.56
+254,Spinach,Andhra Pradesh,July,915,73.9,High,C,67618.5
+255,Pumpkin,Andhra Pradesh,January,673,112.55,High,B,75746.15
+256,Tomato,Andhra Pradesh,March,329,88.78,Medium,B,29208.62
+257,Beans,Karnataka,January,235,106.34,High,,24989.9
+258,Green Peas,Himachal Pradesh,February,195,92.8,Low,A,18096
+259,Beetroot,Karnataka,April,435,59.08,Medium,A,25699.8
+260,Beans,Karnataka,May,788,49.06,High,C,38659.28
+261,Onion,Maharashtra,January,209,31.53,High,A,6589.77
+262,Onion,Maharashtra,May,503,84.5,Medium,C,42503.5
+263,Cucumber,Andhra Pradesh,July,329,37.63,High,A,12380.27
+264,Beans,Karnataka,July,163,44.74,High,C,7292.62
+265,Radish,Tamil Nadu,September,733,47.38,Low,B,34729.54
+266,Green Chilli,Andhra Pradesh,January,57,36.46,Low,A,2078.22
+267,Lady Finger,Tamil Nadu,May,385,27.6,Medium,C,10626
+268,Capsicum,Karnataka,March,182,54.92,High,A,9995.44
+269,Beetroot,Karnataka,September,903,85.15,Medium,A,76890.45
+270,Green Peas,Himachal Pradesh,December,93,60.8,Medium,A,5654.4
+271,Bitter Gourd,Andhra Pradesh,October,489,75.21,High,C,36777.69
+272,Capsicum,Karnataka,May,167,57.53,Medium,A,9607.51
+273,Green Chilli,Andhra Pradesh,August,901,87.41,Medium,A,78756.41
+274,Capsicum,Karnataka,February,299,60.75,Medium,C,18164.25
+275,Onion,Maharashtra,July,941,47.58,Medium,A,44772.78
+276,Bitter Gourd,Andhra Pradesh,March,128,68.6,Low,C,8780.8
+277,Beetroot,Karnataka,April,977,,Medium,C,94280.5
+278,Cabbage,Andhra Pradesh,April,155,30.38,Low,A,4708.9
+279,Green Chilli,Andhra Pradesh,March,828,94.71,Low,A,78419.88
+280,Radish,Tamil Nadu,August,822,74.19,High,B,60984.18
+281,Drumstick,Tamil Nadu,November,700,118.59,Medium,C,83013
+282,Bitter Gourd,Andhra Pradesh,March,500,22.17,Medium,C,11085
+283,Bottle Gourd,Telangana,May,655,20.9,High,A,13689.5
+284,Bottle Gourd,Telangana,August,512,18.95,Medium,B,9702.4
+285,Onion,Maharashtra,November,934,117.62,Low,C,109857.08
+286,Green Chilli,Andhra Pradesh,September,443,63.58,High,C,28165.94
+287,Potato,Karnataka,August,980,100.03,High,A,98029.4
+288,Bitter Gourd,Andhra Pradesh,October,537,67.64,Low,B,36322.68
+289,Carrot,Tamil Nadu,June,781,23.85,High,A,18626.85
+290,Potato,Karnataka,April,774,60.96,Medium,C,47183.04
+291,Beetroot,Karnataka,October,212,53.21,Medium,B,11280.52
+292,Capsicum,Karnataka,June,745,77.78,High,C,57946.1
+293,Bitter Gourd,Andhra Pradesh,February,387,24.92,High,B,9644.04
+294,Bottle Gourd,Telangana,May,791,104.41,High,A,82588.31
+295,Bitter Gourd,Andhra Pradesh,February,646,84.68,Medium,B,54703.28
+296,Green Peas,Himachal Pradesh,March,659,89.43,Low,B,58934.37
+297,Pumpkin,Andhra Pradesh,July,708,98.12,Low,C,69468.96
+298,Beetroot,Karnataka,February,711,85.4,High,B,60719.4
+299,Tomato,Andhra Pradesh,June,366,33.93,Low,B,12418.38
+300,Radish,Tamil Nadu,April,281,120,Low,A,33720
+301,Bottle Gourd,Telangana,February,569,95.94,High,C,54589.86
+302,Potato,Karnataka,November,394,107.02,High,A,42165.88
+303,Green Chilli,Andhra Pradesh,July,207,32.04,High,C,6632.28
+304,Cauliflower,Karnataka,December,498,19.59,Medium,C,9755.82
+305,Spinach,Andhra Pradesh,August,675,44.92,High,B,30321
+306,Spinach,Andhra Pradesh,September,294,47.49,Medium,A,13962.06
+307,Beans,Karnataka,November,634,118.37,Medium,B,75046.58
+308,Green Peas,Himachal Pradesh,September,590,58.96,Low,A,34786.4
+309,Green Chilli,Andhra Pradesh,March,943,41.25,High,B,38898.75
+310,Beans,Karnataka,September,155,89.7,High,A,13903.5
+311,Bottle Gourd,Telangana,February,831,31.83,Medium,C,26450.73
+312,Cabbage,Andhra Pradesh,July,143,114.37,Low,B,16354.91
+313,Beans,Karnataka,January,474,20.59,High,B,9759.66
+314,Spinach,Andhra Pradesh,July,133,54.37,Low,B,7231.21
+315,Carrot,Tamil Nadu,December,715,50.21,Low,A,35900.15
+316,Potato,Karnataka,May,989,102.12,High,A,100996.68
+317,Radish,Tamil Nadu,August,680,15.55,Low,A,10574
+318,Lady Finger,Tamil Nadu,April,905,30.7,High,C,27783.5
+319,Beetroot,Karnataka,July,163,96.5,Low,B,15729.5
+320,Carrot,Tamil Nadu,January,294,59.08,High,B,17369.52
+321,Onion,Maharashtra,February,906,110.04,High,C,99696.24
+322,Tomato,Andhra Pradesh,November,577,75.38,High,A,43494.26
+323,Bottle Gourd,Telangana,July,51,79.56,Low,C,4057.56
+324,Capsicum,Karnataka,March,730,85.16,High,B,62166.8
+325,Onion,Maharashtra,September,607,68.27,High,C,41439.89
+326,Tomato,Andhra Pradesh,July,944,64.36,High,B,60755.84
+327,Beans,Karnataka,May,815,16.71,Low,B,13618.65
+328,Spinach,Andhra Pradesh,December,722,80.97,High,C,58460.34
+329,Bitter Gourd,Andhra Pradesh,March,95,51.99,Medium,C,4939.05
+330,Cauliflower,Karnataka,November,525,117.99,Medium,C,61944.75
+331,Cauliflower,Karnataka,March,114,90.18,Medium,A,10280.52
+332,Bottle Gourd,Telangana,April,94,98.07,Low,B,9218.58
+333,Bottle Gourd,Telangana,September,457,118.86,High,B,54319.02
+334,Lady Finger,Tamil Nadu,January,821,82.92,Medium,B,68077.32
+335,Potato,Karnataka,November,389,43.69,Medium,B,16995.41
+336,Green Peas,Himachal Pradesh,December,500,108.94,Medium,B,54470
+337,Cauliflower,Karnataka,August,758,67.24,High,B,50967.92
+338,Onion,Maharashtra,December,484,23.29,High,A,11272.36
+339,Pumpkin,Andhra Pradesh,May,378,25.77,Medium,C,9741.06
+340,Bottle Gourd,Telangana,May,506,78.28,Medium,A,39609.68
+341,Cucumber,Andhra Pradesh,June,507,19.45,Medium,C,9861.15
+342,Capsicum,Karnataka,May,704,117.9,Low,A,83001.6
+343,Green Peas,Himachal Pradesh,June,575,99.12,High,A,56994
+344,Tomato,Andhra Pradesh,March,919,78.8,Medium,A,72417.2
+345,Cabbage,Andhra Pradesh,February,291,96.74,Medium,B,28151.34
+346,Green Peas,Himachal Pradesh,October,83,78.53,High,B,6517.99
+347,Beans,Karnataka,June,504,,High,A,47940.48
+348,Beetroot,Karnataka,June,457,48.01,Medium,A,21940.57
+349,Carrot,Tamil Nadu,January,803,34.54,High,B,27735.62
+350,Pumpkin,Andhra Pradesh,February,318,96.37,High,B,30645.66
+351,Brinjal,Telangana,October,342,87.87,Medium,A,30051.54
+352,Carrot,Tamil Nadu,March,923,22.78,Low,C,21025.94
+353,Cucumber,Andhra Pradesh,February,879,86.6,,C,76121.4
+354,Beans,Karnataka,December,116,72.75,Medium,B,8439
+355,Cauliflower,Karnataka,December,776,112.37,High,A,87199.12
+356,Beans,Karnataka,September,279,27.74,Low,A,7739.46
+357,Spinach,Andhra Pradesh,August,76,52.89,High,B,4019.64
+358,Cucumber,Andhra Pradesh,September,182,79.25,Low,A,14423.5
+359,Bottle Gourd,Telangana,July,784,90.48,High,B,70936.32
+360,Capsicum,Karnataka,October,125,28.16,Medium,C,3520
+361,Onion,Maharashtra,August,527,86.41,Medium,A,45538.07
+362,Pumpkin,Andhra Pradesh,November,651,34.11,Low,B,22205.61
+363,Beetroot,Karnataka,January,901,28.04,Low,B,25264.04
+364,Cauliflower,Karnataka,March,380,113.15,Low,B,42997
+365,Beetroot,Karnataka,May,916,23.28,Low,C,21324.48
+366,Pumpkin,Andhra Pradesh,May,178,80.63,High,C,14352.14
+367,Onion,Maharashtra,September,706,32.71,High,A,23093.26
+368,Cauliflower,Karnataka,November,689,90.67,High,B,62471.63
+369,Drumstick,Tamil Nadu,January,895,105.7,Low,A,94601.5
+370,Drumstick,Tamil Nadu,May,716,37.13,High,B,26585.08
+371,Green Chilli,Andhra Pradesh,November,81,67.29,High,,5450.49
+372,Bottle Gourd,Telangana,November,359,65.71,High,B,23589.89
+373,Bottle Gourd,Telangana,August,124,87.3,Low,B,10825.2
+374,Capsicum,Karnataka,August,525,36.42,High,A,19120.5
+375,Bitter Gourd,Andhra Pradesh,December,376,92.09,Medium,B,34625.84
+376,Cabbage,Andhra Pradesh,June,577,73.97,Medium,A,42680.69
+377,Cucumber,Andhra Pradesh,February,323,62.21,Low,A,20093.83
+378,Potato,Karnataka,May,443,105.74,Medium,A,46842.82
+379,Cauliflower,Karnataka,June,641,90.72,,A,58151.52
+380,Radish,Tamil Nadu,September,528,67.37,Medium,B,35571.36
+381,Tomato,Andhra Pradesh,February,452,68.07,Low,A,30767.64
+382,Drumstick,Tamil Nadu,June,99,20.31,Medium,,2010.69
+383,Radish,Tamil Nadu,May,599,15.86,Low,B,9500.14
+384,Cabbage,Andhra Pradesh,May,794,53.41,Medium,B,42407.54
+385,Potato,Karnataka,July,102,74.88,Low,B,7637.76
+386,Pumpkin,Andhra Pradesh,May,125,55.57,Medium,C,6946.25
+387,Lady Finger,Tamil Nadu,October,746,79.16,,A,59053.36
+388,Green Peas,Himachal Pradesh,June,863,118.61,High,B,102360.43
+389,Cabbage,Andhra Pradesh,April,666,68.46,High,A,45594.36
+390,Potato,Karnataka,January,190,89.93,Medium,C,17086.7
+391,Cucumber,Andhra Pradesh,March,670,108.78,Low,B,72882.6
+392,Green Chilli,Andhra Pradesh,June,216,56.26,High,C,12152.16
+393,Bottle Gourd,Telangana,October,394,68.27,High,C,26898.38
+394,Radish,Tamil Nadu,December,626,46.48,Low,B,29096.48
+395,Bitter Gourd,Andhra Pradesh,November,162,117.89,High,B,19098.18
+396,Tomato,Andhra Pradesh,October,535,42.88,High,C,22940.8
+397,Drumstick,Tamil Nadu,April,788,20.39,Medium,A,16067.32
+398,Beetroot,Karnataka,November,788,80.07,Medium,A,63095.16
+399,Spinach,Andhra Pradesh,January,636,114.56,Low,A,72860.16
+400,Tomato,Andhra Pradesh,August,371,58.97,Medium,C,21877.87
+401,Brinjal,Telangana,July,563,96.37,Medium,C,54256.31
+402,Potato,Karnataka,December,191,69.46,High,B,13266.86
+403,Radish,Tamil Nadu,September,435,47.94,Low,B,20853.9
+404,Pumpkin,Andhra Pradesh,June,609,52.2,High,C,31789.8
+405,Lady Finger,Tamil Nadu,October,545,35.19,,B,19178.55
+406,Pumpkin,Andhra Pradesh,May,280,113.86,Medium,B,31880.8
+407,Brinjal,Telangana,December,771,66.35,Medium,B,51155.85
+408,Pumpkin,Andhra Pradesh,December,330,45.22,High,C,14922.6
+409,Pumpkin,Andhra Pradesh,July,967,117.92,Medium,A,114028.64
+410,Bottle Gourd,Telangana,January,344,115.31,Low,B,39666.64
+411,Cucumber,Andhra Pradesh,November,312,93.47,Low,A,29162.64
+412,Pumpkin,Andhra Pradesh,May,625,88.1,Low,A,55062.5
+413,Green Chilli,Andhra Pradesh,December,650,40.12,Low,C,26078
+414,Beetroot,Karnataka,April,703,39.45,Low,B,27733.35
+415,Bitter Gourd,Andhra Pradesh,December,533,25.56,Low,A,13623.48
+416,Pumpkin,Andhra Pradesh,March,466,83.55,Medium,B,38934.3
+417,Brinjal,Telangana,May,378,44.97,Low,A,16998.66
+418,Drumstick,Tamil Nadu,April,597,92.56,Low,A,55258.32
+419,Capsicum,Karnataka,March,991,18.82,Medium,B,18650.62
+420,Cauliflower,Karnataka,December,943,112.23,Low,A,105832.89
+421,Bottle Gourd,Telangana,October,667,26.27,Medium,B,17522.09
+422,Cucumber,Andhra Pradesh,November,606,70.05,Low,C,42450.3
+423,Cucumber,Andhra Pradesh,May,247,99.93,Medium,A,24682.71
+424,Cucumber,Andhra Pradesh,November,313,90.45,Low,C,28310.85
+425,Bitter Gourd,Andhra Pradesh,May,631,85.81,Low,A,54146.11
+426,Green Chilli,Andhra Pradesh,November,968,57.58,Medium,C,55737.44
+427,Bitter Gourd,Andhra Pradesh,February,460,85.27,Low,A,39224.2
+428,Radish,Tamil Nadu,June,304,15.72,Medium,A,4778.88
+429,Cucumber,Andhra Pradesh,May,387,46.7,High,C,18072.9
+430,Tomato,Andhra Pradesh,May,719,52.75,Low,A,37927.25
+431,Carrot,Tamil Nadu,August,364,31.77,High,C,11564.28
+432,Bottle Gourd,Telangana,December,170,82.06,Medium,B,13950.2
+433,Green Chilli,Andhra Pradesh,April,274,115.52,Medium,A,31652.48
+434,Cucumber,Andhra Pradesh,December,670,54.23,High,C,36334.1
+435,Radish,Tamil Nadu,September,871,84.73,Low,A,73799.83
+436,Green Chilli,Andhra Pradesh,February,588,61.91,High,B,36403.08
+437,Onion,Maharashtra,October,164,21.48,High,C,3522.72
+438,Brinjal,Telangana,October,599,30.73,Medium,C,18407.27
+439,Cucumber,Andhra Pradesh,February,746,36.57,High,B,27281.22
+440,Onion,Maharashtra,September,506,99.91,Medium,A,50554.46
+441,Beetroot,Karnataka,July,517,74.21,High,B,38366.57
+442,Bottle Gourd,Telangana,December,72,56.57,Low,C,4073.04
+443,Brinjal,Telangana,October,124,19.76,Medium,C,2450.24
+444,Onion,Maharashtra,September,111,113.13,Low,B,12557.43
+445,Potato,Karnataka,May,468,33.9,Low,C,15865.2
+446,Capsicum,Karnataka,June,962,55.16,Medium,B,53063.92
+447,Onion,Maharashtra,November,727,106.83,Low,C,77665.41
+448,Beans,Karnataka,February,232,119.25,Medium,C,27666
+449,Cabbage,Andhra Pradesh,December,278,102.66,Low,B,28539.48
+450,Cucumber,Andhra Pradesh,November,786,72.17,High,B,56725.62
+451,Spinach,Andhra Pradesh,April,521,51.35,Medium,A,26753.35
+452,Carrot,Tamil Nadu,January,878,84.32,High,A,74032.96
+453,Spinach,Andhra Pradesh,April,118,25.59,Low,B,3019.62
+454,Green Chilli,Andhra Pradesh,November,770,106.58,Low,C,82066.6
+455,Potato,Karnataka,July,499,39.61,Low,A,19765.39
+456,Cabbage,Andhra Pradesh,September,346,39.59,High,C,13698.14
+457,Bitter Gourd,Andhra Pradesh,October,662,96.12,Medium,A,63631.44
+458,Bottle Gourd,Telangana,March,726,69.73,Medium,B,50623.98
+459,Lady Finger,Tamil Nadu,January,620,114.59,High,A,71045.8
+460,Capsicum,Karnataka,September,557,,Medium,C,11095.44
+461,Green Peas,Himachal Pradesh,September,376,88.11,Medium,A,33129.36
+462,Bottle Gourd,Telangana,July,238,94.21,Medium,A,22421.98
+463,Spinach,Andhra Pradesh,May,928,89.3,Medium,A,82870.4
+464,Pumpkin,Andhra Pradesh,July,476,73.52,Low,B,34995.52
+465,Spinach,Andhra Pradesh,May,258,49.68,Low,B,12817.44
+466,Beans,Karnataka,February,598,91.08,Low,A,54465.84
+467,Lady Finger,Tamil Nadu,July,739,78.52,Low,A,58026.28
+468,Brinjal,Telangana,October,791,85.5,Low,B,67630.5
+469,Brinjal,Telangana,June,360,115.49,Low,A,41576.4
+470,Brinjal,Telangana,December,170,93.42,Medium,A,15881.4
+471,Green Chilli,Andhra Pradesh,December,259,56.65,Low,C,14672.35
+472,Bitter Gourd,Andhra Pradesh,May,439,63.96,High,B,28078.44
+473,Bottle Gourd,Telangana,May,418,68.85,Medium,B,28779.3
+474,Carrot,Tamil Nadu,December,530,94.97,Medium,A,50334.1
+475,Beans,Karnataka,June,473,19.8,Low,C,9365.4
+476,Cabbage,Andhra Pradesh,January,317,73.1,High,C,23172.7
+477,Capsicum,Karnataka,May,206,35.6,Low,B,7333.6
+478,Drumstick,Tamil Nadu,April,561,72.82,High,B,40852.02
+479,Lady Finger,Tamil Nadu,August,790,82.38,Medium,B,65080.2
+480,Cauliflower,Karnataka,December,864,51.98,Low,C,44910.72
+481,Pumpkin,Andhra Pradesh,August,238,111.27,High,C,26482.26
+482,Potato,Karnataka,September,84,103.1,Low,C,8660.4
+483,Potato,Karnataka,January,472,29.44,High,A,13895.68
+484,Onion,Maharashtra,December,204,15.96,High,B,3255.84
+485,Beans,Karnataka,January,682,81.96,High,B,55896.72
+486,Radish,Tamil Nadu,January,56,70.88,Medium,A,3969.28
+487,Tomato,Andhra Pradesh,September,789,43.85,Medium,A,34597.65
+488,Beetroot,Karnataka,December,740,60.21,Low,A,44555.4
+489,Carrot,Tamil Nadu,September,202,40.3,High,C,8140.6
+490,Lady Finger,Tamil Nadu,June,323,98.47,Low,B,31805.81
+491,Green Peas,Himachal Pradesh,August,628,40.54,High,A,25459.12
+492,Bottle Gourd,Telangana,November,897,104.03,High,C,93314.91
+493,Potato,Karnataka,February,465,54.82,High,B,25491.3
+494,Potato,Karnataka,November,59,88.8,Low,B,5239.2
+495,Capsicum,Karnataka,November,853,49.78,Low,C,42462.34
+496,Potato,Karnataka,April,266,109.63,High,C,29161.58
+497,Radish,Tamil Nadu,May,97,112.04,High,B,10867.88
+498,Pumpkin,Andhra Pradesh,October,723,18.45,Medium,A,13339.35
+499,Brinjal,Telangana,October,197,93.99,High,,18516.03
+500,Onion,Maharashtra,May,216,74.22,High,B,16031.52
+21,Beans,Karnataka,April,191,68.5,Low,A,13083.5
+76,Potato,Karnataka,August,277,35.96,Medium,B,9960.92
+151,Cabbage,Andhra Pradesh,October,361,23.94,Low,A,8642.34
+301,Bottle Gourd,Telangana,February,569,95.94,High,C,54589.86

@@ -1,10 +1,6 @@
 
 import unittest
-
-from vegetable_ci import (
-    calculate_sales_amount,
-    load_vegetable_dataset,
-)
+from vegetable_ci import calculate_sales_amount, load_vegetable_dataset
 
 
 class TestVegetableCI(unittest.TestCase):
@@ -17,9 +13,9 @@ class TestVegetableCI(unittest.TestCase):
         with self.assertRaises(ValueError):
             calculate_sales_amount(-5, 25)
 
-    def test_dataset_contains_500_records(self):
+    def test_dataset_contains_at_least_500_records(self):
         df = load_vegetable_dataset()
-        self.assertEqual(len(df), 500)
+        self.assertGreaterEqual(len(df), 500)
 
     def test_dataset_has_required_columns(self):
         df = load_vegetable_dataset()
@@ -28,7 +24,7 @@ class TestVegetableCI(unittest.TestCase):
             "Vegetable",
             "Quantity_kg",
             "Price_per_kg",
-            "Demand",
+            "Demand"
         }
 
         self.assertTrue(

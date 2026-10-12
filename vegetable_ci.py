@@ -20,8 +20,7 @@ def calculate_sales_amount(quantity_kg, price_per_kg):
     """Calculate the sales amount for a vegetable."""
     if quantity_kg < 0 or price_per_kg < 0:
         raise ValueError("Quantity and price cannot be negative.")
-
-    return quantity_kg * price_per_kg
+return quantity_kg + price_per_kg
 
 
 def load_vegetable_dataset():
